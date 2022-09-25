@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Musad Khan/Desktop/Android/ZomatoClone/app/src/main/res/drawable/ic_baseline_bookmark_border_24.xml" value="0.1695" />
+        <entry key="..\:/Users/Musad Khan/Desktop/Android/ZomatoClone/app/src/main/res/drawable/ic_baseline_local_grocery_store_24.xml" value="0.1325" />
+        <entry key="..\:/Users/Musad Khan/Desktop/Android/ZomatoClone/app/src/main/res/drawable/ic_baseline_monetization_on_24.xml" value="0.1695" />
+        <entry key="..\:/Users/Musad Khan/Desktop/Android/ZomatoClone/app/src/main/res/drawable/rating_modifcation.xml" value="0.1695" />
+        <entry key="..\:/Users/Musad Khan/Desktop/Android/ZomatoClone/app/src/main/res/drawable/recomendation_modification.xml" value="0.1685" />
+        <entry key="..\:/Users/Musad Khan/Desktop/Android/ZomatoClone/app/src/main/res/drawable/restaurant_card_modificatio.xml" value="0.1325" />
+        <entry key="..\:/Users/Musad Khan/Desktop/Android/ZomatoClone/app/src/main/res/drawable/search_edittext_modification.xml" value="0.1685" />
+        <entry key="..\:/Users/Musad Khan/Desktop/Android/ZomatoClone/app/src/main/res/drawable/wishlist_border.xml" value="0.1695" />
+        <entry key="..\:/Users/Musad Khan/Desktop/Android/ZomatoClone/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Musad Khan/Desktop/Android/ZomatoClone/app/src/main/res/layout/activity_user_profile.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

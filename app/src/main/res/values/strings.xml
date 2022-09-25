@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ZomatoClone</string>
+    <string name="location_image">Location Image</string>
+    <string name="chiplun">Chiplun</string>
+    <string name="ExactLocation">Maharashtra, India</string>
+    <string name="SearchHint">Restaurant name or dish...</string>
+    <string name="mic_image">Mic Image</string>
+    <string name="eat_what_makes_you_happy">Eat what makes you happy</string>
+    <string name="pizza">Pizza</string>
+    <string name="burger">Burger</string>
+    <string name="pasta">Pasta</string>
+    <string name="chicken">Chicken</string>
+    <string name="biryani">Biryani</string>
+    <string name="paneer">Paneer</string>
+    <string name="recommended_for_you">Recommended for you</string>
+    <string name="dominos_chicken"><b>Chicken Biryani</b></string>
+    <string name="restaurant_around"><b>250 restaurant Around you</b></string>
+    <string name="time">"  32 min | 3 km  "</string>
+    <string name="burgerking"><b>Burger King</b></string>
+    <string name="rating">"  4.4 "</string>
+    <string name="burgerkingdescrip">Burger, Fast Food, Street Foot</string>
+    <string name="price">₹150 for one</string>
+    <string name="ordercount"> 7875+ orders place from here recently</string>
+    <string name="pizzahutdescrip">Order Pizza Hut Tastiest Pizzas</string>
+    <string name="Pizzhutordercount">2098 order place from here recently</string>
+</resources>
